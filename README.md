@@ -1,6 +1,6 @@
-# CS4476 CV Project Repo
+# SIFT-OCR - A Novel Unsupervised End-To-End Manga Translation & Inpainting Pipeline
 
-Project website can be found [here](https://jiachenren.github.io/cs4476-cv-project/).
+Project website can be found [here](https://jiachenren.github.io/sift-ocr/).
 
 ## Paper
 
