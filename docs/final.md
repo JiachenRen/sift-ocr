@@ -2,7 +2,7 @@
 
 ### Contributors
 
-Weiyao Tang, Zhaoran Ma, Jiachen Ren, Haoran Zhang, May Vy Le
+Jiachen Ren, Weiyao Tang, Zhaoran Ma, Haoran Zhang, May Vy Le
 
 ### Abstract
 
