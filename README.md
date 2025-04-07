@@ -2,7 +2,7 @@
 
 A novel unsupervised end-to-end manga translation & inpainting pipeline. 
 
-See paper [here](https://jiachenren.github.io/sift-ocr/).
+See paper [here](https://jiachenren.github.io/sift-ocr/docs/final.html).
 
 ## Paper
 
