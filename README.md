@@ -1,6 +1,6 @@
-# SIFT-OCR - A Novel Unsupervised End-To-End Manga Translation & Inpainting Pipeline
+# SIFT-OCR
 
-Project website can be found [here](https://jiachenren.github.io/sift-ocr/).
+A novel unsupervised end-to-end manga translation & inpainting pipeline. Project website can be found [here](https://jiachenren.github.io/sift-ocr/).
 
 ## Paper
 
